@@ -19,7 +19,7 @@
 In your console write:
   - Initialize a new local git repository: git init
   - Clone this project to your computer: git clone https://github.com/Jableed43/python-pong.git
-  - Create a virtual environment: python -m venv venv
+  - Create a virtual environment (it's already included): python -m venv venv
   - Activate your environment: ./venv/Scripts/activate
   - Install dependencies: pip install -r .\requirements.txt 
   - Run the project: python pong.py
